@@ -1,0 +1,3 @@
+Just `npm install`
+then...
+`npm run serve` should do the trick
